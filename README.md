@@ -1,2 +1,2 @@
 # hello-github
-Simple repository to remeber command or test new techniques
+Simple repository to remeber commands and/or test new techniques
